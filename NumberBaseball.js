@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-
+ 
 // user id 당 할당된 랜덤 숫자
 const botChoice = {};
 
